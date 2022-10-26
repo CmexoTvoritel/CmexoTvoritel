@@ -10,4 +10,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-Follow me
+
+## Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/cmexotvoritel)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/cmexotvoritel/)
+[![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/cmexotvoritel)
