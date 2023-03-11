@@ -2,7 +2,7 @@
 
 ## My name is Artem Sivokoz
 ## I'm a student of Sfedu from Taganrog
-## My age - 17 years
+## My age - 18 years
 ## My dream - become a professional IT programmer and the best TeamLead, perhaps organize my own company in due time
 ## What do I like to do? I love programming, play basketball, voleyball and computer games. And I also like ride a bike and take beautiful pictures
 
@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
+![Kotlin](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Kotlin)
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/cmexotvoritel)
