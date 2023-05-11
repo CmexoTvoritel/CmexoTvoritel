@@ -17,3 +17,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/cmexotvoritel)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/cmexotvoritel/)
 [![Vk](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/cmexotvoritel)
+
+## CodeWars stat:
+
+[![codewars](https://www.codewars.com/users/CmexoTvoritel/badges/large)](https://www.codewars.com/users/CmexoTvoritel)
